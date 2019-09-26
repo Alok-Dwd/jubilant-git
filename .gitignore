@@ -1,0 +1,5 @@
+release/
+pos.msi
+*.dll
+**/bin
+
