@@ -1,3 +1,4 @@
 recurse merge demo
 conflict merge demo
 revert demo
+revert demo 2
