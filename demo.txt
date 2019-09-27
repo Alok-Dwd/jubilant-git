@@ -15,3 +15,4 @@ bisect demo 4
 bisect demo 5
 remote changes
 pull conflict demo -2
+demo for conflict in pull
