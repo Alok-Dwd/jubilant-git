@@ -8,3 +8,4 @@ stash demo1
 stash demo3
 stash demo2
 bisect1
+bisect demo 1
