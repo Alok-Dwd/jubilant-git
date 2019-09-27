@@ -7,3 +7,4 @@ stash demo
 stash demo1
 stash demo3
 stash demo2
+bisect1
